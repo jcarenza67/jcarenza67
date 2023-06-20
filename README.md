@@ -17,6 +17,10 @@
 • MSTest
 • Markdown
 
+Currently learning
+• Unity
+• Blender 3D modeling
+### Hoping to one day fulfill my dreams of working in the video gaming industry.
 
 📖 Highlighted Projects
 - **Pierre's Sweet and Savory Treats**: Pierre's Sweet and Savory Treat is a web application showcasing a many-to-many relationship between treats and flavors with some Identity Authentication using ASP.NET Core and SQL Server. [See Project](https://github.com/jcarenza67/Pierres-Sweet-and-Savory-Treats.Solution)
