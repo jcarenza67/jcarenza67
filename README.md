@@ -40,6 +40,8 @@
           
 ### Hoping to one day fulfill my dreams of working in the video gaming industry.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 📖 Highlighted Projects
 - **Pierre's Sweet and Savory Treats**: Pierre's Sweet and Savory Treat is a web application showcasing a many-to-many relationship between treats and flavors with some Identity Authentication using ASP.NET Core and SQL Server. [See Project](https://github.com/jcarenza67/Pierres-Sweet-and-Savory-Treats.Solution)
 - **A Nightmare on (Word)le Street**: An application that demonstrates using 2 different APIs, one from Random-Word-API and one from DictionaryAPI, to generate a wordle-simulation game. The APIs return parsed JSON data to the user for random 5-letter word generation and correct dictionary definition of the word. Team project. [See Project](https://github.com/jcarenza67/wordle-app)
