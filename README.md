@@ -19,6 +19,7 @@
 • Jest
 • MSTest
 • Markdown
+• Dart
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin&&fill=58D68D)
