@@ -27,6 +27,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&animation=spin&&fill=DE3163)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&animation=spin&&fill=585CD6)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=true&animation=spin&&fill=CDC80F)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=dart&text=true&animation=spin&&fill=355C7D)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flutter&text=true&animation=spin&&fill=E5FCC2)
 
 ---
 
