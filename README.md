@@ -20,6 +20,10 @@
 • MSTest
 • Markdown
 • Dart
+• WordPress
+• PHP
+• MariaDB
+
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin&&fill=58D68D)
@@ -30,6 +34,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=true&animation=spin&&fill=CDC80F)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=dart&text=true&animation=spin&&fill=355C7D)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flutter&text=true&animation=spin&&fill=E5FCC2)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=wordpress&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=php&text=true&animation=spin)
 
 ---
 
