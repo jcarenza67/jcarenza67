@@ -36,6 +36,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=flutter&text=true&animation=spin&&fill=E5FCC2)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=wordpress&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=php&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin)
+
 
 ---
 
