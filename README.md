@@ -22,6 +22,7 @@
 • Dart
 • WordPress
 • PHP
+• Python
 • MariaDB
 
 
