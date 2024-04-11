@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Joseph Wilfong. I'm a software developer with a passion for learning new technologies and solving interesting problems. Currently, I graduated from the coding school Epicodus and am now actively pursuing my BS in CS at Southern New Hampshire University.
+### Hi there 👋, I'm Joseph Wilfong. I'm a software engineer with a passion for learning new technologies and solving interesting problems. I graduated from the coding school Epicodus and am now actively pursuing my BS in CS at Southern New Hampshire University.
 
 ---
 
