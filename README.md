@@ -38,7 +38,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=wordpress&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=php&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cpp&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=true&animation=spin)
 
 
 ---
