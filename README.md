@@ -39,6 +39,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=php&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&text=true&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&text=true&animation=spin)
 
 
 ---
